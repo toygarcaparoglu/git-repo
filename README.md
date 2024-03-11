@@ -1,2 +1,2 @@
 # Buraya yaz.
-# Değişiklik
+# Değişiklik..
